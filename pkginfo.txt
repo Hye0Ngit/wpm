@@ -1,0 +1,4 @@
+author=Hye0N
+package name=wpm
+package version=0.1.4
+description=Windows Package Manager
