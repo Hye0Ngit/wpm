@@ -3,6 +3,8 @@ Package Manager for Windows OS, like apt-get
 
 **WARNING: version 0.1.0~0.1.2 not works because package modification on 2021/12/05.**
 
+**Using latest versions are always recommended.**
+
 **You SHOULD execute wpm as ADMIN (like apt-get only works in root).**
 
 ## Installation
