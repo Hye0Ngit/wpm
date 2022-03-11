@@ -1,5 +1,5 @@
 @echo off
-echo Windows Package Manager version 0.1.5
+echo Windows Package Manager version 0.1.6
 echo Warning: Alpha State
 if "%1"=="/i" goto install
 if "%1"=="/install" goto install
